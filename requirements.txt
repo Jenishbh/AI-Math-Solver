@@ -1,0 +1,12 @@
+torch
+gradio
+pytesseract
+pillow
+sympy
+matplotlib
+numpy
+opencv-python
+re
+huggingface_hub
+langchain
+scipy
