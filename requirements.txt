@@ -10,3 +10,4 @@ re
 huggingface_hub
 langchain
 scipy
+langchain-community
